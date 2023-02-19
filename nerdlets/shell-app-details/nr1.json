@@ -1,0 +1,13 @@
+{
+  "schemaType": "NERDLET",
+  "id": "shell-test",
+  "displayName": "Shell App Details",
+  "description": "",
+  "context": {
+    "entities": [
+        {
+        "domain": "EXT",
+        "type": "SHELLED_SPA"
+      }
+    ]
+  }}
